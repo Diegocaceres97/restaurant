@@ -1,3 +1,9 @@
+Este proyecto se trabajo con base a react y estilizado con styled components, además se hicieron uso de varias dependencias (npm) tanto para iconos como para darle animación, algunas fueron:
+- react icons
+- framer motion
+Además, se hizo uso del uso del routing de react por medio de:
+- react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Resultado:
+![image](https://user-images.githubusercontent.com/52796337/164981201-42275254-1e3c-482d-b429-ad8c773a1c29.png)
+
