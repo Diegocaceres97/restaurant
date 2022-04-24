@@ -1,6 +1,7 @@
 Este proyecto se trabajo con base a react y estilizado con styled components, además se hicieron uso de varias dependencias (npm) tanto para iconos como para darle animación, algunas fueron:
 - react icons
 - framer motion
+
 Además, se hizo uso del uso del routing de react por medio de:
 - react-router-dom
 
